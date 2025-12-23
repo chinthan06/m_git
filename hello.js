@@ -1,1 +1,2 @@
-console.log("good morning")
+const a = Math.random();
+console.log(a);
